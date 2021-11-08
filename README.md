@@ -27,7 +27,7 @@ You have to fill some informations on `_config.yml` to customize your site.
 
 ```
 # Site settings
-description: Este es un blog de prueba
+description: Este es un blog de prueba. Seguimos con la prueba
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://localhost:3000" # the base hostname & protocol for your site
 
