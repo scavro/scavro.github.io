@@ -2,7 +2,7 @@
 title: Este es un blog de prueba
 description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "https://github.com/scavro/scavro.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: https://github.com/scavro/scavro.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Scavro
